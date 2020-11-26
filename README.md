@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![CORP](https://img.shields.io/badge/KHU-GURU-orange)](http://swedu.khu.ac.kr/html_2018/)
+  [![CORP](https://img.shields.io/badge/KHU-KHUTHON-orange)](http://swedu.khu.ac.kr/html_2018/)
   [![LANGUAGE](https://img.shields.io/badge/javascript-ES6-yellowgreen)](https://www.javascript.com/)
   [![React](https://img.shields.io/badge/React-16.8.6-ff69b4)](https://reactjs.org/)
   [![IDE](https://img.shields.io/badge/IDE-VSCode-green)](https://visualstudio.microsoft.com/vs/)
