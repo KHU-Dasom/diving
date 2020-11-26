@@ -33,5 +33,5 @@ Chrome 확장 앱을 통해서 해당 페이지의 내용을 요약해주거나 
     
 ### 2) 똑순이  
 해당 페이지의 내용에서 궁금한 사항을 검색하면, 그 결과 값을 출력해줍니다.
-![capture](/img/capture3.png)
-![capture](/img/capture4.png)
+![capture](/img/DSE1.png)
+![capture](/img/DSE2.png)
